@@ -20,7 +20,7 @@ ms.lasthandoff: 11/15/2017
 
 作者：[Rick Anderson](https://twitter.com/RickAndMSFT)
 
-本教學課程會讓您了解使用 [Visual Studio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/) 建置 ASP.NET Core MVC Web 應用程式的基本知識。 
+本教學課程將帶您了解 [Visual Studio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/) 建置 ASP.NET Core MVC Web 應用程式的基本知識。 
 
 [!INCLUDE[consider RP](../../includes/razor.md)]
 
